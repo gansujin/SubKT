@@ -1,0 +1,1339 @@
+{
+  "ExpressionLimit": {"Type": "First"},
+  "CollapseSettings": {
+    "CollapseType": "ERA",
+    "EraPad": 0
+  },
+  "CensorWindow": {
+    "StartDate": null,
+    "EndDate": null
+  },
+  "ConceptSets": [{
+    "expression": {"items": [
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 42919316,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "OMOP4646185",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_NAME": "100 ML Sodium Chloride 9 MG/ML Injectable Solution [CJ SODIUM CHLORIDE]",
+          "DOMAIN_ID": "Drug",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Quant Branded Drug",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 42918200,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "OMOP4645085",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_NAME": "1000 ML Calcium Chloride 0.2 MG/ML / Glucose 50 MG/ML / Lactate 6.1 MG/ML / Potassium Chloride 0.3 MG/ML / Sodium Chloride 6 MG/ML Injectable Solution [HARTMANN D CJ]",
+          "DOMAIN_ID": "Drug",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Quant Branded Drug",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 42918204,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "OMOP4645088",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_NAME": "1000 ML Calcium Chloride 0.2 MG/ML / Lactate 3.1 MG/ML / Potassium Chloride 0.3 MG/ML / Sodium Chloride 6 MG/ML Injectable Solution [HARTMANN CJ]",
+          "DOMAIN_ID": "Drug",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Quant Branded Drug",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 42918206,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "OMOP4645090",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_NAME": "1000 ML Calcium Chloride 0.2 MG/ML / Lactate 3.1 MG/ML / Potassium Chloride 0.3 MG/ML / Sodium Chloride 6 MG/ML Injectable Solution [HARTMANNS]",
+          "DOMAIN_ID": "Drug",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Quant Branded Drug",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 42918205,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "OMOP4645089",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_NAME": "1000 ML Calcium Chloride 0.2 MG/ML / Lactate 3.1 MG/ML / Potassium Chloride 0.3 MG/ML / Sodium Chloride 6 MG/ML Injectable Solution [HARTMANN]",
+          "DOMAIN_ID": "Drug",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Quant Branded Drug",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 42918141,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "OMOP4645027",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_NAME": "1000 ML Glucose 40 MG/ML / Sodium Chloride 1.8 MG/ML Injectable Solution [NACL DEXTROSE CJ]",
+          "DOMAIN_ID": "Drug",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Quant Branded Drug",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 42918137,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "OMOP4645023",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_NAME": "1000 ML Glucose 50 MG/ML / Sodium Chloride 4.5 MG/ML Injectable Solution [CHOONGWAE DEXTROSE AND SODIUM CHLORIDE]",
+          "DOMAIN_ID": "Drug",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Quant Branded Drug",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 42918129,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "OMOP4645015",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_NAME": "1000 ML Glucose 50 MG/ML / Sodium Chloride 9 MG/ML Injectable Solution [B BRAUN GLUCOSE SODIUM CHLORIDE]",
+          "DOMAIN_ID": "Drug",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Quant Branded Drug",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 42918183,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "OMOP4645068",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_NAME": "1000 ML Potassium Chloride 3 MG/ML / Sodium Chloride 9 MG/ML Injectable Solution [NACL.K40]",
+          "DOMAIN_ID": "Drug",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Quant Branded Drug",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 42918153,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "OMOP4645038",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_NAME": "1000 ML Sodium Chloride 4.5 MG/ML Injectable Solution [CJ SODIUM CHLORIDE]",
+          "DOMAIN_ID": "Drug",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Quant Branded Drug",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 42918146,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "OMOP4645032",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_NAME": "1000 ML Sodium Chloride 9 MG/ML Injectable Solution [ISOTONIC SODIUM CHLORIDE DAEHAN]",
+          "DOMAIN_ID": "Drug",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Quant Branded Drug",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 42918147,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "OMOP4645033",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_NAME": "1000 ML Sodium Chloride 9 MG/ML Injectable Solution [JW NS]",
+          "DOMAIN_ID": "Drug",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Quant Branded Drug",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 2022919,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "OMOP4921421",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_NAME": "1000 ML calcium chloride 0.2 MG/ML / glucose 50 MG/ML / lactate 6.1 MG/ML / potassium chloride 0.3 MG/ML / sodium chloride 6 MG/ML Injectable Solution [HARTMANN DEX] by JW",
+          "DOMAIN_ID": "Drug",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Marketed Product",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 2022866,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "OMOP4921356",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_NAME": "1000 ML calcium chloride 0.2 MG/ML / lactate 3.1 MG/ML / potassium chloride 0.3 MG/ML / sodium chloride 6 MG/ML Injectable Solution [HARTMANN] by JW",
+          "DOMAIN_ID": "Drug",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Marketed Product",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 2022837,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "OMOP4921319",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_NAME": "1000 ML sodium chloride 4.5 MG/ML Injectable Solution by Daihan",
+          "DOMAIN_ID": "Drug",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Marketed Product",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 42918071,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "OMOP4644958",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_NAME": "3000 ML Sodium Chloride 9 MG/ML Injectable Solution [SODIUM CHLORIDE CJ PERFUSION]",
+          "DOMAIN_ID": "Drug",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Quant Branded Drug",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 2022585,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "OMOP4921071",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_NAME": "3000 ML sodium chloride 9 MG/ML Injectable Solution by Daihan",
+          "DOMAIN_ID": "Drug",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Marketed Product",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 42918439,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "OMOP4645328",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_NAME": "500 ML Glucose 50 MG/ML / Potassium Chloride 1.5 MG/ML / Sodium Chloride 4.5 MG/ML Injectable Solution [DEXTROSE AND SOD CHLORIDE NA.K]",
+          "DOMAIN_ID": "Drug",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Quant Branded Drug",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 42918367,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "OMOP4645257",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_NAME": "500 ML Glucose 50 MG/ML / Sodium Chloride 9 MG/ML Injectable Solution [B.BRAUN GLUCOSE AND SODIUM CHLORIDE]",
+          "DOMAIN_ID": "Drug",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Quant Branded Drug",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 42918539,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "OMOP4645423",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_NAME": "500 ML Hetastarch 60 MG/ML / Sodium Chloride 9 MG/ML Injectable Solution [Voluven]",
+          "DOMAIN_ID": "Drug",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Quant Branded Drug",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 42918384,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "OMOP4645274",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_NAME": "500 ML Sodium Chloride 30 MG/ML Injectable Solution [SODIUM CHLORIDE DAIHAN]",
+          "DOMAIN_ID": "Drug",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Quant Branded Drug",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 42918386,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "OMOP4645276",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_NAME": "500 ML Sodium Chloride 9 MG/ML Injectable Solution [CJ SODIUM CHLORIDE]",
+          "DOMAIN_ID": "Drug",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Quant Branded Drug",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 21601801,
+          "STANDARD_CONCEPT": "C",
+          "CONCEPT_CODE": "C09B",
+          "VOCABULARY_ID": "ATC",
+          "CONCEPT_NAME": "ACE INHIBITORS, COMBINATIONS",
+          "DOMAIN_ID": "Drug",
+          "STANDARD_CONCEPT_CAPTION": "Classification",
+          "CONCEPT_CLASS_ID": "ATC 3rd",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 21601783,
+          "STANDARD_CONCEPT": "C",
+          "CONCEPT_CODE": "C09A",
+          "VOCABULARY_ID": "ATC",
+          "CONCEPT_NAME": "ACE INHIBITORS, PLAIN",
+          "DOMAIN_ID": "Drug",
+          "STANDARD_CONCEPT_CAPTION": "Classification",
+          "CONCEPT_CLASS_ID": "ATC 3rd",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 21601832,
+          "STANDARD_CONCEPT": "C",
+          "CONCEPT_CODE": "C09D",
+          "VOCABULARY_ID": "ATC",
+          "CONCEPT_NAME": "ANGIOTENSIN II RECEPTOR BLOCKERS (ARBs), COMBINATIONS",
+          "DOMAIN_ID": "Drug",
+          "STANDARD_CONCEPT_CAPTION": "Classification",
+          "CONCEPT_CLASS_ID": "ATC 3rd",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 21601822,
+          "STANDARD_CONCEPT": "C",
+          "CONCEPT_CODE": "C09C",
+          "VOCABULARY_ID": "ATC",
+          "CONCEPT_NAME": "ANGIOTENSIN II RECEPTOR BLOCKERS (ARBs), PLAIN",
+          "DOMAIN_ID": "Drug",
+          "STANDARD_CONCEPT_CAPTION": "Classification",
+          "CONCEPT_CLASS_ID": "ATC 3rd",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 21601964,
+          "STANDARD_CONCEPT": "C",
+          "CONCEPT_CODE": "D01B",
+          "VOCABULARY_ID": "ATC",
+          "CONCEPT_NAME": "ANTIFUNGALS FOR SYSTEMIC USE",
+          "DOMAIN_ID": "Drug",
+          "STANDARD_CONCEPT_CAPTION": "Classification",
+          "CONCEPT_CLASS_ID": "ATC 3rd",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 21603553,
+          "STANDARD_CONCEPT": "C",
+          "CONCEPT_CODE": "S01AA",
+          "VOCABULARY_ID": "ATC",
+          "CONCEPT_NAME": "Antibiotics",
+          "DOMAIN_ID": "Drug",
+          "STANDARD_CONCEPT_CAPTION": "Classification",
+          "CONCEPT_CLASS_ID": "ATC 4th",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 21600602,
+          "STANDARD_CONCEPT": "C",
+          "CONCEPT_CODE": "A07AA",
+          "VOCABULARY_ID": "ATC",
+          "CONCEPT_NAME": "Antibiotics",
+          "DOMAIN_ID": "Drug",
+          "STANDARD_CONCEPT_CAPTION": "Classification",
+          "CONCEPT_CLASS_ID": "ATC 4th",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 21601910,
+          "STANDARD_CONCEPT": "C",
+          "CONCEPT_CODE": "D01AA",
+          "VOCABULARY_ID": "ATC",
+          "CONCEPT_NAME": "Antibiotics",
+          "DOMAIN_ID": "Drug",
+          "STANDARD_CONCEPT_CAPTION": "Classification",
+          "CONCEPT_CLASS_ID": "ATC 4th",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 21603073,
+          "STANDARD_CONCEPT": "C",
+          "CONCEPT_CODE": "J02AA",
+          "VOCABULARY_ID": "ATC",
+          "CONCEPT_NAME": "Antibiotics",
+          "DOMAIN_ID": "Drug",
+          "STANDARD_CONCEPT_CAPTION": "Classification",
+          "CONCEPT_CLASS_ID": "ATC 4th",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 21603235,
+          "STANDARD_CONCEPT": "C",
+          "CONCEPT_CODE": "R02AB",
+          "VOCABULARY_ID": "ATC",
+          "CONCEPT_NAME": "Antibiotics",
+          "DOMAIN_ID": "Drug",
+          "STANDARD_CONCEPT_CAPTION": "Classification",
+          "CONCEPT_CLASS_ID": "ATC 4th",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 42966092,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "OMOP4692556",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_NAME": "Azathioprine 50 MG Oral Tablet [IMMUTHERA]",
+          "DOMAIN_ID": "Drug",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Branded Drug",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4028741,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "10725009",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Benign hypertension",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Disorder",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 21602178,
+          "STANDARD_CONCEPT": "C",
+          "CONCEPT_CODE": "D07X",
+          "VOCABULARY_ID": "ATC",
+          "CONCEPT_NAME": "CORTICOSTEROIDS, OTHER COMBINATIONS",
+          "DOMAIN_ID": "Drug",
+          "STANDARD_CONCEPT_CAPTION": "Classification",
+          "CONCEPT_CLASS_ID": "ATC 3rd",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 35807337,
+          "STANDARD_CONCEPT": "C",
+          "CONCEPT_CODE": "45570",
+          "VOCABULARY_ID": "HemOnc",
+          "CONCEPT_NAME": "Calcineurin inhibitor",
+          "DOMAIN_ID": "Drug",
+          "STANDARD_CONCEPT_CAPTION": "Classification",
+          "CONCEPT_CLASS_ID": "Component Class",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 21603923,
+          "STANDARD_CONCEPT": "C",
+          "CONCEPT_CODE": "L04AD",
+          "VOCABULARY_ID": "ATC",
+          "CONCEPT_NAME": "Calcineurin inhibitors",
+          "DOMAIN_ID": "Drug",
+          "STANDARD_CONCEPT_CAPTION": "Classification",
+          "CONCEPT_CLASS_ID": "ATC 4th",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 21601461,
+          "STANDARD_CONCEPT": "C",
+          "CONCEPT_CODE": "C03",
+          "VOCABULARY_ID": "ATC",
+          "CONCEPT_NAME": "DIURETICS",
+          "DOMAIN_ID": "Drug",
+          "STANDARD_CONCEPT_CAPTION": "Classification",
+          "CONCEPT_CLASS_ID": "ATC 2nd",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 9203,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "ER",
+          "VOCABULARY_ID": "Visit",
+          "CONCEPT_NAME": "Emergency Room Visit",
+          "DOMAIN_ID": "Visit",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Visit",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 262,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "ERIP",
+          "VOCABULARY_ID": "Visit",
+          "CONCEPT_NAME": "Emergency Room and Inpatient Visit",
+          "DOMAIN_ID": "Visit",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Visit",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 320128,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "59621000",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Essential hypertension",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Disorder",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 8532,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "F",
+          "VOCABULARY_ID": "Gender",
+          "CONCEPT_NAME": "FEMALE",
+          "DOMAIN_ID": "Gender",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Gender",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 316139,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "84114007",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Heart failure",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Disorder",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 42488532,
+          "STANDARD_CONCEPT": "N",
+          "CONCEPT_CODE": "I50.9",
+          "VOCABULARY_ID": "KCD7",
+          "CONCEPT_NAME": "Heart failure, unspecified",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "CONCEPT_CLASS_ID": "KCD7 code",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 42488330,
+          "STANDARD_CONCEPT": "N",
+          "CONCEPT_CODE": "I11.0",
+          "VOCABULARY_ID": "KCD7",
+          "CONCEPT_NAME": "Hypertensive heart disease with (congestive) heart failure",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "CONCEPT_CLASS_ID": "KCD7 code",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 42488331,
+          "STANDARD_CONCEPT": "N",
+          "CONCEPT_CODE": "I11.9",
+          "VOCABULARY_ID": "KCD7",
+          "CONCEPT_NAME": "Hypertensive heart disease without (congestive) heart failure",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "CONCEPT_CLASS_ID": "KCD7 code",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 319034,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "60899001",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Hypertensive heart disease without congestive heart failure",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Disorder",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 9201,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "IP",
+          "VOCABULARY_ID": "Visit",
+          "CONCEPT_NAME": "Inpatient Visit",
+          "DOMAIN_ID": "Visit",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Visit",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 8507,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "M",
+          "VOCABULARY_ID": "Gender",
+          "CONCEPT_NAME": "MALE",
+          "DOMAIN_ID": "Gender",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Gender",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 35807487,
+          "STANDARD_CONCEPT": "C",
+          "CONCEPT_CODE": "46164",
+          "VOCABULARY_ID": "HemOnc",
+          "CONCEPT_NAME": "Nonsteroidal anti-inflammatory drugs (NSAIDs)",
+          "DOMAIN_ID": "Drug",
+          "STANDARD_CONCEPT_CAPTION": "Classification",
+          "CONCEPT_CLASS_ID": "Component Class",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 42488328,
+          "STANDARD_CONCEPT": "N",
+          "CONCEPT_CODE": "I10.9",
+          "VOCABULARY_ID": "KCD7",
+          "CONCEPT_NAME": "Other and unspecified primary hypertension",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "CONCEPT_CLASS_ID": "KCD7 code",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 317895,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "123799005",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Renovascular hypertension",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Disorder",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 35506622,
+          "STANDARD_CONCEPT": "C",
+          "CONCEPT_CODE": "10067585",
+          "VOCABULARY_ID": "MedDRA",
+          "CONCEPT_NAME": "Type 2 diabetes mellitus",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Classification",
+          "CONCEPT_CLASS_ID": "PT",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4193704,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "313436004",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Type 2 diabetes mellitus without complication",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Disorder",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 42486036,
+          "STANDARD_CONCEPT": "N",
+          "CONCEPT_CODE": "E11.8",
+          "VOCABULARY_ID": "KCD7",
+          "CONCEPT_NAME": "Type 2 diabetes mellitus, with unspecified complications",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "CONCEPT_CLASS_ID": "KCD7 code",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Invalid",
+          "CONCEPT_ID": 9,
+          "STANDARD_CONCEPT": "N",
+          "CONCEPT_CODE": "OMOP generated",
+          "VOCABULARY_ID": "Domain",
+          "CONCEPT_NAME": "Visit type",
+          "DOMAIN_ID": "Metadata",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "CONCEPT_CLASS_ID": "Domain",
+          "INVALID_REASON": "U"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 19014878,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "1256",
+          "VOCABULARY_ID": "RxNorm",
+          "CONCEPT_NAME": "azathioprine",
+          "DOMAIN_ID": "Drug",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Ingredient",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 19007424,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "105611",
+          "VOCABULARY_ID": "RxNorm",
+          "CONCEPT_NAME": "azathioprine 50 MG Oral Tablet [Imuran]",
+          "DOMAIN_ID": "Drug",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Branded Drug",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 2045980,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "OMOP4946143",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_NAME": "azathioprine 50 MG Oral Tablet by Handok",
+          "DOMAIN_ID": "Drug",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Marketed Product",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 900022954,
+          "STANDARD_CONCEPT": "N",
+          "CONCEPT_CODE": "693903430",
+          "VOCABULARY_ID": "EDI-Drug (temp)",
+          "CONCEPT_NAME": "azathioprine 50 mg TABLET",
+          "DOMAIN_ID": "Drug",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "CONCEPT_CLASS_ID": "Drug Product",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 900001896,
+          "STANDARD_CONCEPT": "N",
+          "CONCEPT_CODE": "626900100",
+          "VOCABULARY_ID": "EDI-Drug (temp)",
+          "CONCEPT_NAME": "azathioprine 50 mg TABLET",
+          "DOMAIN_ID": "Drug",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "CONCEPT_CLASS_ID": "Drug Product",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 19010482,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "3008",
+          "VOCABULARY_ID": "RxNorm",
+          "CONCEPT_NAME": "cyclosporine",
+          "DOMAIN_ID": "Drug",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Ingredient",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 1101898,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "27169",
+          "VOCABULARY_ID": "RxNorm",
+          "CONCEPT_NAME": "leflunomide",
+          "DOMAIN_ID": "Drug",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Ingredient",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 19003999,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "68149",
+          "VOCABULARY_ID": "RxNorm",
+          "CONCEPT_NAME": "mycophenolate mofetil",
+          "DOMAIN_ID": "Drug",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Ingredient",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 42375096,
+          "STANDARD_CONCEPT": "N",
+          "CONCEPT_CODE": "645000330",
+          "VOCABULARY_ID": "EDI",
+          "CONCEPT_NAME": "mycophenolate mofetil 0.25g",
+          "DOMAIN_ID": "Drug",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "CONCEPT_CLASS_ID": "Drug Product",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 42375095,
+          "STANDARD_CONCEPT": "N",
+          "CONCEPT_CODE": "643304770",
+          "VOCABULARY_ID": "EDI",
+          "CONCEPT_NAME": "mycophenolate mofetil 0.25g",
+          "DOMAIN_ID": "Drug",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "CONCEPT_CLASS_ID": "Drug Product",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 42375098,
+          "STANDARD_CONCEPT": "N",
+          "CONCEPT_CODE": "643305790",
+          "VOCABULARY_ID": "EDI",
+          "CONCEPT_NAME": "mycophenolate mofetil 0.5g",
+          "DOMAIN_ID": "Drug",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "CONCEPT_CLASS_ID": "Drug Product",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 19004061,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "616447",
+          "VOCABULARY_ID": "RxNorm",
+          "CONCEPT_NAME": "mycophenolate mofetil 250 MG Oral Capsule [Cellcept]",
+          "DOMAIN_ID": "Drug",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Branded Drug",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 42956679,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "OMOP4683216",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_NAME": "mycophenolate mofetil 250 MG Oral Capsule [MYREPT]",
+          "DOMAIN_ID": "Drug",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Branded Drug",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 42375099,
+          "STANDARD_CONCEPT": "N",
+          "CONCEPT_CODE": "645001301",
+          "VOCABULARY_ID": "EDI",
+          "CONCEPT_NAME": "mycophenolate mofetil 34.98g/174.9mL(0.2g/mL)",
+          "DOMAIN_ID": "Drug",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "CONCEPT_CLASS_ID": "Drug Product",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 42375100,
+          "STANDARD_CONCEPT": "N",
+          "CONCEPT_CODE": "643306751",
+          "VOCABULARY_ID": "EDI",
+          "CONCEPT_NAME": "mycophenolate mofetil 34.98g/174.9mL(0.2g/mL)",
+          "DOMAIN_ID": "Drug",
+          "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+          "CONCEPT_CLASS_ID": "Drug Product",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 42956683,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "OMOP4683220",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_NAME": "mycophenolate mofetil 35000 MG Powder for Oral Suspension [Cellcept]",
+          "DOMAIN_ID": "Drug",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Branded Drug",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 42956685,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "OMOP4683222",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_NAME": "mycophenolate mofetil 35000 MG Powder for Oral Suspension [MYREPT]",
+          "DOMAIN_ID": "Drug",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Branded Drug",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 42956675,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "OMOP4683212",
+          "VOCABULARY_ID": "RxNorm Extension",
+          "CONCEPT_NAME": "mycophenolate mofetil 500 MG Oral Tablet [MYREPT]",
+          "DOMAIN_ID": "Drug",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Branded Drug",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 950637,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "42316",
+          "VOCABULARY_ID": "RxNorm",
+          "CONCEPT_NAME": "tacrolimus",
+          "DOMAIN_ID": "Drug",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Ingredient",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 21603925,
+          "STANDARD_CONCEPT": "C",
+          "CONCEPT_CODE": "L04AD02",
+          "VOCABULARY_ID": "ATC",
+          "CONCEPT_NAME": "tacrolimus; systemic (calcineurin inhibitors)",
+          "DOMAIN_ID": "Drug",
+          "STANDARD_CONCEPT_CAPTION": "Classification",
+          "CONCEPT_CLASS_ID": "ATC 5th",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      }
+    ]},
+    "name": "[sooj] \bContKT (Gender, Visit, Condition, Drug, CalcineurinI, CCS, Antimetabolite, hydration)",
+    "id": 0
+  }],
+  "EndStrategy": null,
+  "cdmVersionRange": ">=5.0.0",
+  "CensoringCriteria": [],
+  "Title": null,
+  "AdditionalCriteria": null,
+  "QualifiedLimit": {"Type": "First"},
+  "InclusionRules": [],
+  "PrimaryCriteria": {
+    "CriteriaList": [{"ConditionOccurrence": {
+      "OccurrenceEndDate": null,
+      "CorrelatedCriteria": null,
+      "ConditionTypeExclude": false,
+      "CodesetId": 0,
+      "ProviderSpecialty": null,
+      "Gender": null,
+      "VisitType": null,
+      "First": null,
+      "OccurrenceStartDate": null,
+      "ConditionType": null,
+      "ConditionSourceConcept": null,
+      "ConditionStatus": null,
+      "StopReason": null,
+      "Age": null
+    }}],
+    "PrimaryCriteriaLimit": {"Type": "First"},
+    "ObservationWindow": {
+      "PostDays": 0,
+      "PriorDays": 0
+    }
+  }
+}
